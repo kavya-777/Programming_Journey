@@ -17,3 +17,5 @@ Week-4
   skipped due to same reason, as already covered K means clustering and more.
 Week-5
   Day-1 (Mon) : What are neural networks; basics about them, no heavy theory, only concepts at sea level
+  Day-2 (Tue) : Gradient Descent; baiscs about how does a neural net learn? and cost function
+  Day-3 (Wed) : Gradient Descent + Backpropogation, tensors and pytorch; (backpropogation) how by tracking back and changing biases training could be better, then real basics about tensors and pytorch.
